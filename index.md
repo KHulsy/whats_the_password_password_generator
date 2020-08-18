@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Password Generator: Read-Me
 
-You can use the [editor on GitHub](https://github.com/KHulsy/whats_the_password_password_generator/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Abstract
+I am confident that this assignment is decades ahead of my previous password generator. Having a functioning password generator is always exciting. This is nowhere near as pretty as the Purple Rain theme, but this one works. I incorporated a combo of creative and professional, with a creepy-fun theme of an escaped droid incorporated into the Password Generator. Initially, I created my own index.html and index.js before realizing that there were files in the homework dev folder. I did an npm install of a password generator, which wasn't particularly helful. I finally Google Fu'd and went to the W3's. Now, here's the exciting part: I was able to code out a special character requirement. I looked at the code of warriors, and I got better. It was fabulous.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Programs Used
+W3, NPM, Github, Mac
+### Acknowledgments
+The entire teaching, TA, and tutoring staff of Trilogy. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KHulsy/whats_the_password_password_generator/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
